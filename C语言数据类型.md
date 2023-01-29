@@ -90,6 +90,16 @@
 
 这种情况下并不是定义两个int*的变量p和p1，而是p是int\*，而p1是int。这个内容的小讲解见视频 [18：00~20：00处](https://www.bilibili.com/video/BV1Mb4y1X7dz/?spm_id_from=333.999.0.0&vd_source=b8a7d9f6d396acb27e811371a96d6e9a)
 
+## 数组与指针（数组名等价于指针）
+
+> <img src="D:\大学\单片机学习\C语言数据类型\C-MCU-\image-20230129212544891.png" alt="image-20230129212544891" style="zoom:50%;" />
+
+> <img src="D:\大学\单片机学习\C语言数据类型\C-MCU-\image-20230129212520734.png" alt="image-20230129212520734" style="zoom:50%;" />
+
+## 使用指针的注意事项
+
+> ![image-20230129213013184](D:\大学\单片机学习\C语言数据类型\C-MCU-\image-20230129213013184.png)
+
 # .h文件用来可供外部调用的函数
 
 > <img src="D:\大学\单片机学习\C语言数据类型\C-MCU-\image-20230128132036330.png" alt="image-20230128132036330" style="zoom:50%;" />
